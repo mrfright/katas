@@ -193,3 +193,6 @@ ModelManifest.xml
 */samjones/build
 */samjones/.gradle
 */samjones/*.iml
+
+# Eric Faehnrich
+*/mrfright/build
